@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Kanabodee Wongprasert.
 
+##คติประจำใจ
+ไม่ต้องเก่งกว่าใครขอแค่เก่งกว่าตัวเองในเมื่อว่านก็พอ
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=550&lines=Student+%26+Beginner+Developer;Learning+HTML+%2F+CSS+%2F+JavaScript;Exploring+C+%26+Python;Building+Projects+%26+Learning+Every+Day)
