@@ -73,3 +73,5 @@ I believe in learning by doing and getting better every day.
 💬 *Open for research collaborations, academic exchanges, and technology discussions.*
 
 </div>
+
+เติมไฟฟฟ
