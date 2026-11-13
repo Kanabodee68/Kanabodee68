@@ -1,17 +1,18 @@
-# 👋 Hi, I'm Kanabodee Wongprasert.
+# 👋 Hi, I'm Kanabodee Wongprasert. 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%">
 
-## คติประจำใจ
-ไม่ต้องเก่งกว่าใครขอแค่เก่งกว่าตัวเองในเมื่อว่านก็พอ
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=550&lines=Student+%26+Beginner+Developer;Learning+HTML+%2F+CSS+%2F+JavaScript;Exploring+C+%26+Python;Building+Projects+%26+Learning+Every+Day)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&lines=%3E+Student+%26+Beginner+Developer;%3E+Learning+HTML+%2F+CSS+%2F+JavaScript;%3E+Exploring+C+%26+Python;%3E+Building+Projects+Every+Day+_)
 
 <br/>
 
-<!-- RANK:START -->
-[![Thailand GitHub Rank](https://img.shields.io/badge/Thailand_Rank-%23262_Public_Contributions-2E90FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/thailand.md)
-<!-- RANK:END -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://https://www.instagram.com/kanabodee_txn/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kanabodee.wongprasert)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyutenza@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/66979837932)
+
 
 <br/><br/>
 </div>
@@ -37,7 +38,7 @@ I believe in learning by doing and getting better every day.
 </details>
 
 <details open>
-<summary><b>💻 Fullstack & Web Development</b></summary>
+<summary><b>💻 Skill</b></summary>
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -70,8 +71,8 @@ I believe in learning by doing and getting better every day.
 
 <div align="center">
 
-💬 *Open for research collaborations, academic exchanges, and technology discussions.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,111,20&height=150&section=footer" width="100%">
 
 </div>
 
-เติมไฟฟฟ
+
