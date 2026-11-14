@@ -76,4 +76,3 @@ I believe in learning by doing and getting better every day.
 </div>
 
 
-sdd
